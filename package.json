@@ -9,6 +9,6 @@
         "node": ">=6.9.1"
     },
     "scripts": {
-        "start": "echo 'console.log(\'Custom commands work\');' >> index.js && node index.js"
+        "start": "echo 'console.log(\\'Custom commands work\\');' >> index.js && node index.js"
     }
 }
