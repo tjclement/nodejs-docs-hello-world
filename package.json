@@ -9,7 +9,7 @@
         "node": ">=6.9.1"
     },
     "scripts": {
-        "postinstall": "echo \"console.log('Custom commands work');\" >> index.js",
+        "postinstall": "echo console.log('Custom commands work'); >> index.js",
         "start": "node index.js"
     }
 }
